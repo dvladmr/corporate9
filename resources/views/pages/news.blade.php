@@ -35,7 +35,7 @@
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
                     <a class="image" href="#">
-                        <img src="/images/napa-team.jpg" alt="Latest News" class="img-responsive">
+                        <img src="/images/portfolio1.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
                         <h3 class="text-capitalize font-normal darkcolor">
@@ -50,7 +50,7 @@
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
                     <a class="image" href="#">
-                        <img src="/images/it-park.jpg" alt="Latest News" class="img-responsive">
+                        <img src="/images/portfolio2.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
                         <h3 class="text-capitalize font-normal darkcolor"><a href="#">
@@ -65,7 +65,7 @@
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
                     <a class="image" href="#">
-                        <img src="/images/blog-image6.jpg" alt="Latest News" class="img-responsive">
+                        <img src="/images/portfolio3.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
                         <h3 class="text-capitalize font-normal darkcolor"><a href="#">
@@ -80,7 +80,7 @@
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
                     <a class="image" href="#">
-                        <img src="/images/video.jpg" alt="Latest News" class="img-responsive">
+                        <img src="/images/portfolio4.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
                         <h3 class="text-capitalize font-normal darkcolor"><a href="#">Уборка после строительных работ</a></h3>
@@ -92,7 +92,7 @@
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
                     <a class="image" href="#">
-                        <img src="/images/napa-hackaton2.jpg" alt="Latest News" class="img-responsive">
+                        <img src="/images/portfolio5.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
                         <h3 class="text-capitalize font-normal darkcolor"><a href="#">
@@ -107,7 +107,7 @@
             <div class="cbp-item">
                 <div class="news_item shadow text-center text-md-left">
                     <a class="image" href="#">
-                        <img src="/images/napa-hackaton.jpg" alt="Latest News" class="img-responsive">
+                        <img src="/images/portfolio6.jpg" alt="Latest News" class="img-responsive">
                     </a>
                     <div class="news_desc">
                         <h3 class="text-capitalize font-normal darkcolor"><a href="#">Мойка витражей магазина</a></h3>
